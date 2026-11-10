@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Samanyu Pattanayak</title>
+  <desc id="desc">Computer Science at VIT Vellore. A midnight canvas with cyan and lilac circuit paths.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#263247"/></pattern>
+    <linearGradient id="accent"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="298" rx="15" fill="url(#grid)" stroke="#293449"/>
+  <rect x="48" y="51" width="4" height="190" rx="2" fill="url(#accent)"/>
+  <text x="76" y="71" fill="#7dd3fc" font-family="monospace" font-size="14" letter-spacing="4">SAMMYRYUGA / GITHUB</text>
+  <text x="73" y="140" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="700">Samanyu</text>
+  <text x="73" y="202" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="57" font-weight="700">Pattanayak<tspan fill="#c4b5fd">.</tspan></text>
+  <text x="76" y="244" fill="#a6b3c6" font-family="Segoe UI,Arial,sans-serif" font-size="19">Computer Science @ VIT Vellore</text>
+  <g fill="none" stroke="#334663" stroke-width="2">
+    <path d="M755 65H843L899 121H1097M719 236H804L862 178H1100M901 50V87L953 139V252"/>
+    <circle cx="969" cy="150" r="91" stroke-dasharray="3 9"/>
+    <circle cx="969" cy="150" r="57"/>
+  </g>
+  <g fill="#0d1117" stroke-width="2">
+    <circle cx="755" cy="65" r="5" stroke="#7dd3fc"/><circle cx="719" cy="236" r="5" stroke="#c4b5fd"/>
+    <circle cx="1097" cy="121" r="5" stroke="#c4b5fd"/><circle cx="1100" cy="178" r="5" stroke="#7dd3fc"/>
+  </g>
+  <text x="969" y="161" text-anchor="middle" fill="#7dd3fc" font-family="monospace" font-size="32">&lt;/&gt;</text>
+  <circle r="4" fill="#7dd3fc"><animateMotion dur="6s" repeatCount="indefinite" path="M755 65H843L899 121H1097"/></circle>
+  <circle r="4" fill="#c4b5fd"><animateMotion dur="7s" repeatCount="indefinite" path="M1100 178H862L804 236H719"/></circle>
+</svg>
