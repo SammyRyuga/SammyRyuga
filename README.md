@@ -45,7 +45,7 @@ Computer Science student at **VIT Vellore**. I enjoy figuring out how things wor
 
 ### The last 31 days
 
-[![Samanyu's contribution activity over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=SammyRyuga&bg_color=0d1117&color=94a3b8&line=7dd3fc&point=c4b5fd&area=true&area_color=243b53&hide_border=true&custom_title=Small%20steps.%20Real%20commits.)](https://github.com/SammyRyuga?tab=overview)
+[![Samanyu's contribution activity over the last 31 days](./assets/activity.svg)](https://github.com/SammyRyuga?tab=overview)
 
 ### A year, one bite at a time
 
