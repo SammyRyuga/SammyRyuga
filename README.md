@@ -47,16 +47,10 @@ Computer Science student at **VIT Vellore**. I enjoy figuring out how things wor
 
 [![Samanyu's contribution activity over the last 31 days](./assets/activity.svg)](https://github.com/SammyRyuga?tab=overview)
 
-### A year, one bite at a time
+### A year, one commit at a time
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img alt="Animated snake eating my real GitHub contribution grid" src="./assets/github-snake.svg" width="100%" />
 </picture>
-
-<sub>My contribution history, remixed. The snake refreshes daily.</sub>
-
----
-
-<p align="center"><sub>Samanyu Pattanayak · Computer Science @ VIT Vellore</sub></p>
